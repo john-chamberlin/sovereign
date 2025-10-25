@@ -1,2 +1,2 @@
 # sovereign
-An AI Powered portfolio manager
+Sovereign is a self-hosted, modular automation platform that connects APIs, services, and internal systems through event-driven workflows
