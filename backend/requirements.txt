@@ -2,3 +2,4 @@ yfinance
 pandas
 fastapi
 uvicorn
+sqlalchemy
